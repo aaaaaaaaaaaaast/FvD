@@ -150,20 +150,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Joni           | Rosalie            | Sjoerd       | Aset             |
+  |Grid            | HTML               | HTML         | Grid             |
+  | Styling banner | Video embed        | Navigatie    | Navigatie        |
+  | HTML           | ...                | Hamburger menu| Hamburger menu 
+
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - boven stylesheet font 
+- Tabindex op non interactive elementen gebruiken
+- Logo een button maken ( button en dan img)
+- Logo eerst zodat je sweet op welke site je bent
+- Flex-order voor als iets naar voren wilt doen.
+- Aria-label handing in het order element zetten button>img moet in de button
+- H1 verstoppen of je logo een h1 maken. Bij de main beginner met een h1
+- De hierarchy toepassen. Onthoud dat kopjes iets over het element moeten zeggen. Bij vinted zou je bv. Het merk/wat voor kleding stuk het is eerst zetten.
+
+
 
 </details>
 
@@ -179,16 +185,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Ik heb een achterstand omdat ik ziek was dus ik wil extra hulp bij animeren.
+
+
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | Joni           | Rosalie         | Sjoerd       |   | Aset             |
+  | ---            | ---                | ---              | ---              |
+  | CSS            | Achtergrond        | Animatie linken  | Animatie         |
+  | en dat ook nog | Uitklap menu       | positioneren     | Hamburger menu |
+  | ...            | ...                | gebruik van class| ...              |
+                                        | Media queries    |                           | Alt labels                                  
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
