@@ -193,20 +193,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Joni           | Rosalienn          | Sjoerd       |   | Aset             |
+  | Joni           | Rosalie            | Sjoerd           | Aset             |
   | ---            | ---                | ---              | ---              |
   | CSS            | Achtergrond        | Animatie linken  | Animatie         |
-  | en dat ook nog | Uitklap menu       | positioneren     | Hamburger menu |
+  | en dat ook nog | Uitklap menu       | positioneren     | Hamburger menu   |
   | ...            | ...                | gebruik van class| ...              |
                                         | Media queries    |                           | Alt labels                                  
 
-  ### Verslag van meeting
+ 
+ 
+ ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+ - CSS: styling boven en elementen benden
+- Bij nth-of-type zet bij welke element het hoort bv. Main
+- Iets opzoeken in je code door Command F te drukken
+- Bij het commentary zetten wat je hebt gestyled
+- mijn content in li plaatsen
+- Overflow scroll gebruiken met flexbox voor het na maken van vinted artikelen op de homepage
 
 </details>
 
