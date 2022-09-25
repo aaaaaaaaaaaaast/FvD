@@ -36,18 +36,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.vinted.nl/?utm_source=617912297225&utm_medium=139671016239&utm_campaign=14037604471&utm_content=kwd-298453551056&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-Fw2OucZTvBhVMHCxiIZpfBuNnb7PlGQj7cu9gsDMDa8eNkkueMQMaAtc8EALw_wcB
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.vinted.nl/?utm_source=617912297225&utm_medium=139671016239&utm_campaign=14037604471&utm_content=kwd-298453551056&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-Fw2OucZTvBhVMHCxiIZpfBuNnb7PlGQj7cu9gsDMDa8eNkkueMQMaAtc8EALw_wcB
+  
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
   Vinted - home
-  <img src="readme-images/Vinted-website- klein-scherm-FED" width="375px" alt="omschrijving van de pagina">
+  <img src="./readme-images/Vinted-website-kleinscherm-FED" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
   Vinted - detail pagina
-  <img src="VVinted-website- klein-scherm2-FED" width="375px" alt="omschrijving van de pagina">
+  <img src="./readme-images/Vinted-website-klein-scherm2-FED" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
